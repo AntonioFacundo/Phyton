@@ -1,0 +1,5 @@
+print("Primer programa en python")
+nombre = input ("Ingresar nombre:\t")
+print("Hola " + nombre)
+input()
+input()
